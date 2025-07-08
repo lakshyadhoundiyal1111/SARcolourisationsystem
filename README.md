@@ -122,7 +122,7 @@ matplotlib
 
 ---
 
-## 👨‍💻 Author & Credits
+## 👨‍💻 Contribute as you like :)
 
 Developed as part of a major academic project.  
 Trained and evaluated on real satellite image data.  
